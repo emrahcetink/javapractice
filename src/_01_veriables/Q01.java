@@ -22,6 +22,8 @@ public class Q01 {
 		System.out.println("\"Java\" ile hayat cok \'afilli\'");
 
 		//Soru-4 : "Basari" gayrete
+		//Soru-4 : "Basari" gayrete//Soru-4 : "Basari" gayrete
+		//Soru-4 : "Basari" gayrete
 		// 'asiktir'  yazdırınız sonraki "TechProEd ile java cok kolay ..." ifadesi  3 satır sonra ve satır basından 1 tab ilerideyazılsın.
 
 		System.out.println(" \"Basari\" gayrete \n \'asiktir\' \n\n\n \t\"TechProEd ile java cok kolay ...\"");
